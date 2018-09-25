@@ -1,0 +1,10 @@
+# Unnecessary MacOS directory
+*.DS_Store
+
+# Currently opened files
+~$*
+
+# Other Unnecessary hidden folders
+*.metadata
+*.recommenders
+*.gradle

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-09-14T06:33:39" hostname="Phillips-Air.gateway" time="0.063">
+  <properties/>
+  <testcase name="testMultiplicationByZero()" classname="CalculatorTest" time="0.029"/>
+  <testcase name="testMultiplicationByNegativeValues()" classname="CalculatorTest" time="0.007"/>
+  <testcase name="testMultiplicationAfterDecimal()" classname="CalculatorTest" time="0.004"/>
+  <testcase name="testMultiplicationTimeout()" classname="CalculatorTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
