@@ -12,7 +12,6 @@ Calculator functions :
 
 1 - Addition
 
-2 - Subtraction
 
 ## Tests
 
@@ -24,7 +23,5 @@ testAppHasAGreeting()
 testAdditionSimple()
 testAdditionNegativeValues()
 testAdditionZero()
-testSubtractionSimple()
-testSubtractionNegative()
-testSubtractionZero()
+
 ```
