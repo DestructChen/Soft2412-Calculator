@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-14T06:33:39" hostname="Phillips-Air.gateway" time="0.041">
+<testsuite name="AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-25T01:04:13" hostname="DESKTOP-T47A1DO" time="0.024">
   <properties/>
-  <testcase name="testAddition()" classname="AppTest" time="0.035"/>
-  <testcase name="testAppHasAGreeting()" classname="AppTest" time="0.001"/>
+  <testcase name="testAddition()" classname="AppTest" time="0.016"/>
+  <testcase name="testAppHasAGreeting()" classname="AppTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
